@@ -1,12 +1,10 @@
 # my_media_scripts
+
 Various Scripts to Do Common Things
-
-
-
 
 Personal Reference: Create Repo Sync
 
-Here are the steps to add a Git submodule to your GitHub repository:
+# Here are the steps to add a Git submodule to your GitHub repository
 
     Navigate to your GitHub repository and create a new folder for the submodule.
 
@@ -14,21 +12,18 @@ Here are the steps to add a Git submodule to your GitHub repository:
 
     Use the git submodule add command to add the external repository as a submodule. For example:
 
-
 >>
-git submodule add https://github.com/exampleuser/external-repository.git subdirectory-name
+git submodule add <https://github.com/exampleuser/external-repository.git> subdirectory-name
 
 The subdirectory-name argument is the name of the folder you created in step 1.
 
     Stage and commit the changes to your local repository:
-
 
 >>
 git add .
 git commit -m "Added external repository as submodule"
 
     Push the changes to your remote repository:
-
 
 >>
 git push
