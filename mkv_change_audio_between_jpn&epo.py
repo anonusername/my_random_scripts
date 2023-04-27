@@ -1,7 +1,7 @@
 # Japanese to Esperanto Plex Hack
 # When Plex parses an anime library ,which you set to only play Japanese audio, it will play Japanese audio with English subtitles.
 # This is cool for 99% of all anime... except shows like Cowboy Bebop where the English audio dub is done with quality 
-# (hell, the creator said the English voice is Spike is very awesome )
+# hell, the creator said the English voice is Spike is very awesome 
 # 
 # This code will 
 # *search a directory for "mkv" files, 
