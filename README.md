@@ -25,9 +25,6 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/your-username/media-toolkit.git
 cd media-toolkit
 
-Certainly, here's a Markdown description for your Bash script:
-
----
 
 ## YouTube Video Downloader with SponsorBlock Removal
 
